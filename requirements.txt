@@ -1,4 +1,4 @@
-voila
+voila==0.3.5
 openpyxl
 ipywidgets
 anvil-uplink
@@ -14,4 +14,3 @@ plotly-express
 pytest
 ipyvuetify
 voila-vuetify
-wget
