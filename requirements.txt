@@ -1,0 +1,17 @@
+voila
+openpyxl
+ipywidgets
+anvil-uplink
+matplotlib
+numpy
+pandas
+jupyterlab
+requests
+pandas
+textblob
+nltk
+plotly-express
+pytest
+ipyvuetify
+voila-vuetify
+wget
