@@ -13,4 +13,3 @@ nltk
 plotly-express
 pytest
 ipyvuetify
-voila-vuetify
